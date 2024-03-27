@@ -1,0 +1,30 @@
+\\Mac\Home\Documents\SysSoftDev\StockAnalysisProject\StockAnalysisProject\obj\Debug\StockAnalysisProject.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\SysSoftDev\StockAnalysisProject\StockAnalysisProject\obj\Debug\StockAnalysisProject.Form_Candlesticks.resources
+\\Mac\Home\Documents\SysSoftDev\StockAnalysisProject\StockAnalysisProject\obj\Debug\StockAnalysisProject.Properties.Resources.resources
+\\Mac\Home\Documents\SysSoftDev\StockAnalysisProject\StockAnalysisProject\obj\Debug\StockAnalysisProject.csproj.GenerateResource.cache
+\\Mac\Home\Documents\SysSoftDev\StockAnalysisProject\StockAnalysisProject\obj\Debug\StockAnalysisProject.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\SysSoftDev\StockAnalysisProject\StockAnalysisProject\bin\Debug\StockAnalysisProject.exe.config
+\\Mac\Home\Documents\SysSoftDev\StockAnalysisProject\StockAnalysisProject\bin\Debug\StockAnalysisProject.exe
+\\Mac\Home\Documents\SysSoftDev\StockAnalysisProject\StockAnalysisProject\bin\Debug\StockAnalysisProject.pdb
+\\Mac\Home\Documents\SysSoftDev\StockAnalysisProject\StockAnalysisProject\obj\Debug\StockAnalysisProject.exe
+\\Mac\Home\Documents\SysSoftDev\StockAnalysisProject\StockAnalysisProject\obj\Debug\StockAnalysisProject.pdb
+C:\Users\menon\Downloads\StockAnalysisProject\StockAnalysisProject\bin\Debug\StockAnalysisProject.exe.config
+C:\Users\menon\Downloads\StockAnalysisProject\StockAnalysisProject\bin\Debug\StockAnalysisProject.exe
+C:\Users\menon\Downloads\StockAnalysisProject\StockAnalysisProject\bin\Debug\StockAnalysisProject.pdb
+C:\Users\menon\Downloads\StockAnalysisProject\StockAnalysisProject\obj\Debug\StockAnalysisProject.csproj.AssemblyReference.cache
+C:\Users\menon\Downloads\StockAnalysisProject\StockAnalysisProject\obj\Debug\StockAnalysisProject.Form_Candlesticks.resources
+C:\Users\menon\Downloads\StockAnalysisProject\StockAnalysisProject\obj\Debug\StockAnalysisProject.Properties.Resources.resources
+C:\Users\menon\Downloads\StockAnalysisProject\StockAnalysisProject\obj\Debug\StockAnalysisProject.csproj.GenerateResource.cache
+C:\Users\menon\Downloads\StockAnalysisProject\StockAnalysisProject\obj\Debug\StockAnalysisProject.csproj.CoreCompileInputs.cache
+C:\Users\menon\Downloads\StockAnalysisProject\StockAnalysisProject\obj\Debug\StockAnalysisProject.exe
+C:\Users\menon\Downloads\StockAnalysisProject\StockAnalysisProject\obj\Debug\StockAnalysisProject.pdb
+\\Mac\Home\Documents\SysSoftDev\StockAnalysisProjectMenon - Copy\StockAnalysisProject Rename\bin\Debug\StockAnalysisProject.exe.config
+\\Mac\Home\Documents\SysSoftDev\StockAnalysisProjectMenon - Copy\StockAnalysisProject Rename\bin\Debug\StockAnalysisProject.exe
+\\Mac\Home\Documents\SysSoftDev\StockAnalysisProjectMenon - Copy\StockAnalysisProject Rename\bin\Debug\StockAnalysisProject.pdb
+\\Mac\Home\Documents\SysSoftDev\StockAnalysisProjectMenon - Copy\StockAnalysisProject Rename\obj\Debug\StockAnalysisProject.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\SysSoftDev\StockAnalysisProjectMenon - Copy\StockAnalysisProject Rename\obj\Debug\StockAnalysisProject.Form_Candlesticks.resources
+\\Mac\Home\Documents\SysSoftDev\StockAnalysisProjectMenon - Copy\StockAnalysisProject Rename\obj\Debug\StockAnalysisProject.Properties.Resources.resources
+\\Mac\Home\Documents\SysSoftDev\StockAnalysisProjectMenon - Copy\StockAnalysisProject Rename\obj\Debug\StockAnalysisProject.csproj.GenerateResource.cache
+\\Mac\Home\Documents\SysSoftDev\StockAnalysisProjectMenon - Copy\StockAnalysisProject Rename\obj\Debug\StockAnalysisProject.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\SysSoftDev\StockAnalysisProjectMenon - Copy\StockAnalysisProject Rename\obj\Debug\StockAnalysisProject.exe
+\\Mac\Home\Documents\SysSoftDev\StockAnalysisProjectMenon - Copy\StockAnalysisProject Rename\obj\Debug\StockAnalysisProject.pdb
